@@ -151,11 +151,6 @@ Computer Science Student | Aspiring AI Engineer | Machine Learning & Data Scienc
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sushil25742/Sushil25742/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
 
 ---
 
