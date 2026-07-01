@@ -1,8 +1,7 @@
 # Hi 👋, I'm Sushil Kumar Sah
 
 <p align="center">
-  <img src="https://i.postimg.cc/XXzpNsHk/banner.png" alt="Sushil Kumar Sah Banner" width="100%" />
-</p>
+<a href="https://ibb.co/twmXWNQL"><img src="https://i.ibb.co/Cp12TXmP/Chat-GPT-Image-Jul-1-2026-08-29-15-AM.png" alt="Sushil Kumar Sah Banner" /></a> </p>
 
 <h3 align="center">
 Computer Science Student | Aspiring AI Engineer | Machine Learning & Data Science Enthusiast | Research-Oriented Developer from Nepal 🇳🇵
