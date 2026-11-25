@@ -1,163 +1,122 @@
-# Hi 👋, I'm Sushil Kumar Sah
+<h1 align="center">Hi 👋, I’m Sushil Kumar Sah</h1>
 
 <p align="center">
-<a href="https://ibb.co/twmXWNQL"><img src="https://i.ibb.co/Cp12TXmP/Chat-GPT-Image-Jul-1-2026-08-29-15-AM.png" alt="Sushil Kumar Sah Banner" /></a> </p>
-
-<h3 align="center">
-Computer Science Student | Aspiring AI Engineer | Machine Learning & Data Science Enthusiast | Research-Oriented Developer from Nepal 🇳🇵
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Aspiring+AI+Engineer;Machine+Learning+Enthusiast;Data+Science+Learner;Generative+AI+Explorer;Building+Innovative+Projects;Always+Learning+Always+Building+🚀" />
+  <strong>Computer Science Student · Aspiring AI Engineer · Nepal 🇳🇵</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sushil25742&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Sushil25742?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/Sushil25742?affiliations=OWNER&style=for-the-badge&color=blue" />
+  <img
+    src="https://i.ibb.co/Cp12TXmP/Chat-GPT-Image-Jul-1-2026-08-29-15-AM.png"
+    alt="Sushil Kumar Sah's profile banner"
+    width="100%"
+  />
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/sushil-sah-740a6b416/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/sushil1j"><img src="https://img.shields.io/badge/Kaggle-075985?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://github.com/Sushil25742?tab=repositories"><img src="https://img.shields.io/badge/Repositories-14564F?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+</p>
 
-## 🚀 About Me
-
-🎓 Computer Science Student at **Xavier International College, Nepal**
-
-🤖 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**
-
-💻 Skilled in **Python, JavaScript, Java, and modern web technologies**
-
-🌱 Currently learning **Deep Learning, Generative AI, MLOps, and Cloud Computing**
-
-📊 Interested in **AI Research, Digital Skills, and Future Employability of Youth**
-
-🚀 Building projects that combine **Innovation, Research, and Real-World Impact**
-
-🎯 Goal: **Become an AI Engineer and contribute to impactful, human-centered technologies**
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/sushil-sah-740a6b416/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/sushil1t/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/sushilsah288149" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/sushil1j" target="_blank">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/sushil1rs" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.tiktok.com/@sushil1r" target="_blank">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="#about-me">About</a> ·
+  <a href="#workbench">AI workbench</a> ·
+  <a href="#toolkit">Toolkit</a> ·
+  <a href="#snake-challenge">Play Snake 🐍</a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+<a id="about-me"></a>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css,nodejs,mysql,firebase,aws,azure,gcp,tensorflow,pytorch,git,github,figma,netlify,vscode" />
-</p>
+## 👨‍💻 About me
 
----
+I study computer science at **Xavier International College in Nepal**. I’m working toward becoming an **AI engineer**, and I’m especially interested in what happens after a model leaves the notebook. How do you know it works well? How do you turn it into something people can use?
 
-## 📊 GitHub Statistics
+Beyond the code, there’s a question I’d like to research: **Which digital skills will help young people in Nepal as AI changes the way they work?**
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sushil25742&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushil25742&layout=compact&theme=tokyonight"/>
-</p>
+<a id="workbench"></a>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Sushil25742&theme=tokyonight"/>
-</p>
+## 🔬 On my AI workbench
 
----
+| What I’m learning | The question behind it |
+| --- | --- |
+| **Machine learning** | What can the examples a model gets wrong tell me about the data? |
+| **Deep learning & generative AI** | How do neural networks learn patterns and use them to generate something new? |
+| **Cloud computing & MLOps** | Once a model is deployed, how can I tell when its performance starts to slip? |
 
-## 📈 Contribution Graph
+<a id="toolkit"></a>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushil25742&theme=tokyo-night"/>
-</p>
+## 🛠️ My toolkit
 
----
+**Languages**
 
-## 🏆 GitHub Trophies
+<img src="https://skillicons.dev/icons?i=python,js,java,c" alt="Python, JavaScript, Java, and C" />
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sushil25742&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-</p>
+**Machine learning, web & data**
 
----
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,html,css,nodejs,mysql,firebase" alt="TensorFlow, PyTorch, HTML, CSS, Node.js, MySQL, and Firebase" />
 
-## 🔥 Current Focus
+<details>
+<summary><strong>☁️ Cloud, design & development tools</strong></summary>
 
-🧠 Artificial Intelligence & Machine Learning
+<br />
 
-🤖 Deep Learning and Generative AI
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,netlify,git,github,figma,vscode&perline=4" alt="AWS, Azure, Google Cloud, Netlify, Git, GitHub, Figma, and VS Code" />
 
-☁️ Cloud Computing and MLOps
-
-📊 Data Science and Research
-
-🌍 Building Human-Centered Technologies
-
-🚀 Open Source Contributions
+</details>
 
 ---
 
-## 📚 Currently Learning
+<a id="snake-challenge"></a>
 
-```text
-✓ Machine Learning
-✓ Deep Learning
-✓ Generative AI
-✓ MLOps
-✓ Data Structures & Algorithms
-✓ Cloud Computing
-✓ Research Methodology
-✓ Full-Stack Development
-```
+## 🐍 Snake challenge
+
+**Can you get the snake to the apple in seven moves?** Start at 🐍 in the top-left corner. Each arrow moves one square. You can cross the white squares, but the green blocks are walls.
+
+| | A | B | C | D | E |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **1** | 🐍 | ⬜ | 🟩 | ⬜ | ⬜ |
+| **2** | 🟩 | ⬜ | ⬜ | ⬜ | 🟩 |
+| **3** | ⬜ | ⬜ | 🟩 | ⬜ | ⬜ |
+| **4** | ⬜ | 🟩 | ⬜ | ⬜ | 🍎 |
+| **5** | ⬜ | ⬜ | ⬜ | 🟩 | 🟩 |
+
+Trace a route, then open your choice.
+
+<details>
+<summary><strong>Route A</strong>　→ ↓ → ↓ → ↓ →</summary>
+
+<br />
+
+🟩 **You hit the wall at C3.** You made it to C2, but the square directly below is blocked. Close this route and try another.
+
+</details>
+
+<details>
+<summary><strong>Route B</strong>　→ ↓ → → ↓ ↓ →</summary>
+
+<br />
+
+🍎 **Apple collected in seven moves!** Your path was A1 → B1 → B2 → C2 → D2 → D3 → D4 → E4.
+
+Seven is the shortest possible route: the apple is four columns right and three rows down. **Bonus:** Can you find a second seven-move route that reaches the apple from above?
+
+</details>
+
+<details>
+<summary><strong>Route C</strong>　→ ↓ ↓ → → ↓ →</summary>
+
+<br />
+
+🟩 **You hit the wall at C3 from the left.** At B3, the open path leads west, taking you farther from the apple. Try turning east one row earlier.
+
+</details>
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 🌐 Let’s connect
 
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Sushil25742&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
+If you’re experimenting with machine learning or researching digital skills in Nepal, I’d love to hear what you’re working on.
 
----
-
-## ✍️ Random Developer Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-
----
-
-<h3 align="center">
-💡 "Artificial Intelligence is not about replacing humans; it's about amplifying human potential."
-</h3>
-
-<h3 align="center">
-🚀 Always Learning • Always Building • Always Innovating
-</h3>
+[LinkedIn](https://www.linkedin.com/in/sushil-sah-740a6b416/) · [Kaggle](https://www.kaggle.com/sushil1j) · [Instagram](https://www.instagram.com/sushil1t/) · [X](https://x.com/sushilsah288149) · [Facebook](https://www.facebook.com/sushil1rs) · [TikTok](https://www.tiktok.com/@sushil1r)
