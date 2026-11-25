@@ -1,249 +1,226 @@
-<p align="center">
-  <a href="https://github.com/Sushil25742">
-    <img
-      src="https://i.ibb.co/Cp12TXmP/Chat-GPT-Image-Jul-1-2026-08-29-15-AM.png"
-      alt="Sushil Kumar Sah’s profile banner"
-      width="100%"
-    />
-  </a>
-</p>
-
-<h1 align="center">Hi 👋, I’m Sushil Kumar Sah</h1>
-
-<p align="center">
-  <strong>Computer Science Student &nbsp;·&nbsp; Aspiring AI Engineer &nbsp;·&nbsp; Nepal 🇳🇵</strong>
-</p>
+<a name="top"></a>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1400&color=28B8A0&center=true&vCenter=true&width=680&lines=What+can+a+model+learn+from+its+mistakes%3F;What+makes+an+AI+tool+useful+to+a+student%3F;Which+digital+skills+will+matter+in+Nepal%3F"
-    alt="Questions I’m exploring about machine learning, useful AI tools, and digital skills in Nepal"
-    width="85%"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:211A32,55:452947,100:754147&height=210&text=Sushil%20Kumar%20Sah&fontSize=62&fontColor=FFF4DC&fontAlignY=46&desc=COMPUTER%20SCIENCE%20%20%2F%20%20ARTIFICIAL%20INTELLIGENCE%20%20%2F%20%20NEPAL&descSize=14&descAlignY=68"
+    width="100%"
+    alt="Sushil Kumar Sah — Computer Science, Artificial Intelligence, Nepal"
   />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sushil-sah-740a6b416/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="https://www.kaggle.com/sushil1j"><img src="https://img.shields.io/badge/Kaggle-Explore-087EA4?style=for-the-badge&logo=kaggle&logoColor=white" alt="Visit my Kaggle profile" /></a>
-  <a href="https://github.com/Sushil25742?tab=repositories"><img src="https://img.shields.io/badge/GitHub-View_Code-126B60?style=for-the-badge&logo=github&logoColor=white" alt="Browse my repositories" /></a>
-</p>
-
-<p align="center">
-  <a href="#about-me">About me</a> &nbsp;·&nbsp;
-  <a href="#ai-workbench">AI workbench</a> &nbsp;·&nbsp;
-  <a href="#toolkit">Toolkit</a> &nbsp;·&nbsp;
-  <a href="#experiments">Experiments</a> &nbsp;·&nbsp;
-  <a href="#activity">Activity</a> &nbsp;·&nbsp;
-  <a href="#connect">Connect</a>
+  <a href="#profile"><strong>Profile</strong></a>
+  &nbsp; / &nbsp;
+  <a href="#research"><strong>Research</strong></a>
+  &nbsp; / &nbsp;
+  <a href="#studio"><strong>Project studio</strong></a>
+  &nbsp; / &nbsp;
+  <a href="#toolkit"><strong>Toolkit</strong></a>
+  &nbsp; / &nbsp;
+  <a href="#connect"><strong>Contact</strong></a>
 </p>
 
 ---
 
-<a name="about-me"></a>
+<a name="profile"></a>
 
-## 👨‍💻 About me
+<table>
+<tr>
+<td width="63%" valign="middle">
 
-I’m **Sushil**, a computer science student at **Xavier International College in Nepal**. I work with Python, JavaScript, and Java, and I’m learning how to take a machine learning idea from a notebook to an application someone can actually use.
+<sub><strong>PERSONAL PROFILE &nbsp; / &nbsp; NEPAL 🇳🇵</strong></sub>
 
-I’m especially interested in the moment a model gets something wrong. Was the example unusual? Was the label unclear? Did I ask the wrong question in the first place? Those questions bring together the parts of computer science I enjoy most: writing code, investigating data, and figuring out what an answer actually means.
+<h2>Namaste, I’m Sushil.</h2>
 
-| 🎓 Studying | 🧠 Exploring | 🌏 Research interest |
-| :--- | :--- | :--- |
-| Computer science at Xavier International College | Deep learning, generative AI, and MLOps | Digital skills and employment opportunities for young people in Nepal |
+<p>I’m a computer science student at <strong>Xavier International College in Nepal</strong>, working toward a career in AI engineering.</p>
 
-<a name="ai-workbench"></a>
+<p>I’m interested in what happens between a model making a prediction and a person deciding to trust it. An internship recommendation, for example, is only useful if the student is eligible, the deadline is open, and the role gives them a chance to use what they know.</p>
 
-## 🔬 My AI workbench
-
-**Suppose I wanted to build a tool that helps students find relevant internships.** Before choosing a model, I’d want to know what *relevant* means. A listing might match a student’s Python skills perfectly and still be a poor recommendation because the deadline has passed or the role requires experience they don’t have.
-
-Here’s how I’d approach that experiment.
-
-```mermaid
-flowchart TD
-    A["Ask students what makes a listing useful"] --> B["Label a small set of example listings"]
-    B --> C["Try a simple keyword baseline"]
-    C --> D{"Where does it go wrong?"}
-    D -->|"Wrong skill match"| E["Inspect wording and labels"]
-    D -->|"Expired or unsuitable role"| F["Check dates and eligibility"]
-    E --> G["Compare revised results on held-out examples"]
-    F --> G
-    G --> H["Ask students to review the recommendations"]
-
-    classDef research fill:#153F46,stroke:#5DD9BC,color:#FFFFFF
-    classDef decision fill:#48351F,stroke:#F5B971,color:#FFFFFF
-    classDef evaluation fill:#292F55,stroke:#A6AEFF,color:#FFFFFF
-    class A,B,C research
-    class D decision
-    class E,F,G,H evaluation
-```
-
-The comparison I’d care about most is how often a student finds a listing worth applying to in the first five results. That gives me something concrete to improve and a reason to ask students what the ranking missed.
-
-<a name="toolkit"></a>
-
-## 🛠️ Technical toolkit
-
-### Languages
+<p>That question brings together my interests in <strong>machine learning, web development, and digital opportunity for young people in Nepal.</strong></p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,c&theme=dark" alt="Python, JavaScript, Java, and C" />
+  <a href="https://github.com/Sushil25742?tab=repositories"><strong>Explore my code ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.kaggle.com/sushil1j"><strong>Find me on Kaggle ↗</strong></a>
 </p>
 
-**Python** for data and machine learning · **JavaScript** for the web · **Java and C** for core programming and algorithms
+</td>
+<td width="37%" align="center" valign="middle">
 
-### Machine learning, web, and data
+<img
+  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Boudhanath_Stupa%2C_Kathmandu_-2026.jpg/500px-Boudhanath_Stupa%2C_Kathmandu_-2026.jpg"
+  width="250"
+  alt="Boudhanath Stupa in Kathmandu, Nepal"
+/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,html,css,nodejs,mysql,firebase&theme=dark" alt="TensorFlow, PyTorch, HTML, CSS, Node.js, MySQL, and Firebase" />
-</p>
+<br />
+<sub><strong>Boudhanath · Kathmandu, Nepal</strong></sub>
+<br />
+<sub>Photo by <a href="https://commons.wikimedia.org/wiki/File:Boudhanath_Stupa,_Kathmandu_-2026.jpg">Jeena Maharjan</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></sub>
 
-I’m exploring the connection between these tools: how a prediction produced in Python becomes something a person can see, use, and give feedback on in a web application.
+</td>
+</tr>
+</table>
+
+<a name="research"></a>
+
+## What I’d like to research
+
+> ### Which digital skills help a student in Nepal get their first real opportunity?
+
+A job listing, a college assignment, and a student portfolio can all mention **Python** and mean three different things. One might ask for data analysis, another for an algorithm, and another for a working website. I’d like to study the tasks behind those labels.
+
+| Who I’d ask | The question I’d start with |
+| :--- | :--- |
+| **A student** | What did you learn in class that you later used without being given step-by-step instructions? |
+| **An educator** | Which part of a project shows you that a student understands their own solution? |
+| **An employer** | What would you want to see in a beginner’s repository before inviting them for an interview? |
+
+I’d want the result to be useful to someone choosing their next project. “Build a tool that cleans a messy spreadsheet and explains what changed” gives a student a clearer place to begin than “learn data science.”
+
+<a name="studio"></a>
+
+## Project studio
+
+Two experiments I’d like to build. Each starts with a question small enough to test.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/DATA_SCIENCE-F2CA83?style=flat-square" alt="Data science" />
+
+<h3>A skills map for first jobs</h3>
+
+<p>What do entry-level technical roles in Nepal actually ask a beginner to do?</p>
+
+<p>I’d start with a dated sample of public job listings. For each one, I’d record the role, the task, and whether a skill is required or preferred. Visitors could select a skill and read the original sentence where the employer mentions it.</p>
+
+<p><strong>First deliverable</strong><br />A searchable chart backed by a small, documented dataset.</p>
+
+<sub>PYTHON &nbsp;·&nbsp; SQL &nbsp;·&nbsp; DATA VISUALIZATION</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/GENERATIVE_AI-DAC6EC?style=flat-square" alt="Generative AI" />
+
+<h3>A study assistant that shows its sources</h3>
+
+<p>Can a student check an AI explanation against the course handout it came from?</p>
+
+<p>I’d begin with one handout and a set of student questions. Each answer would sit beside the passage that supports it. Some questions would deliberately ask about material the handout never covers.</p>
+
+<p><strong>First deliverable</strong><br />A side-by-side answer and source viewer with a small evaluation set.</p>
+
+<sub>PYTHON &nbsp;·&nbsp; RETRIEVAL &nbsp;·&nbsp; WEB DEVELOPMENT</sub>
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><strong>☁️ Open my cloud and developer toolbox</strong></summary>
+<summary><strong>Open the design sketch for the study assistant ↓</strong></summary>
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,netlify,git,github,figma,vscode&theme=dark&perline=4" alt="AWS, Azure, Google Cloud, Netlify, Git, GitHub, Figma, and VS Code" />
+```mermaid
+flowchart TD
+    Q["A student asks a question"] --> R["Find passages in the handout"]
+    R --> D{"Is there enough evidence?"}
+    D -->|Yes| A["Show the answer beside its source"]
+    D -->|No| B["Explain what the handout leaves open"]
+    A --> F["Let the student flag a mismatch"]
+    F --> T["Add the example to the evaluation set"]
 
-| Area | Tools |
+    classDef ink fill:#302239,stroke:#C2A4CF,color:#FFF5E7
+    classDef gold fill:#F2CA83,stroke:#946927,color:#241B19
+    class Q,R,A,B,F,T ink
+    class D gold
+```
+
+**The test I’d run first:** Give it a question whose answer appears word-for-word in the handout, one that needs two passages, and one the handout cannot answer. Those three cases would tell me more about the first version than a polished demo alone.
+
+</details>
+
+<a name="toolkit"></a>
+
+## Technical toolkit
+
+<img
+  src="https://skillicons.dev/icons?i=python,js,java,c,pytorch,tensorflow,mysql,git&theme=dark&perline=8"
+  alt="Python, JavaScript, Java, C, PyTorch, TensorFlow, MySQL, and Git"
+/>
+
+| Area | Tools and interests |
 | :--- | :--- |
-| Cloud platforms I’m exploring | AWS, Microsoft Azure, Google Cloud |
-| Web hosting | Netlify |
-| Version control | Git, GitHub |
-| Interface design and development | Figma, VS Code |
-
-</details>
-
-<a name="experiments"></a>
-
-## 🧪 Three experiments I’d like to build
-
-Each idea starts with a small enough question to test. Open whichever one interests you.
+| **Programming** | Python, JavaScript, Java, C, data structures, and algorithms |
+| **Machine learning** | PyTorch, TensorFlow, model evaluation, and error analysis |
+| **Web and data** | HTML, CSS, Node.js, MySQL, and Firebase |
+| **Cloud and delivery** | Exploring AWS, Azure, Google Cloud, Netlify, and MLOps |
+| **Design and development** | Figma, VS Code, Git, and GitHub |
 
 <details>
-<summary><strong>📊 01 · What skills appear in entry-level job listings in Nepal?</strong></summary>
+<summary><strong>What I’m learning next ↓</strong></summary>
 
-### The question
+<br />
 
-If a student had one semester to learn a new technical skill, what evidence could help them choose?
+**Deep learning.** I want to get comfortable tracing one example through a training loop and explaining how the prediction, loss, and parameter update fit together.
 
-### A first version
+**MLOps.** My next milestone is a small model I can package, deploy, and test again after changing its inputs. I’m particularly interested in catching differences between how data is prepared during training and how it arrives in an application.
 
-I’d start with a dated sample of public entry-level listings and record the role, location, and skills each employer mentions. I’d keep **required** and **preferred** skills separate. A student reading the results should be able to tell whether SQL is a requirement for a role or simply a bonus.
-
-### What I’d show
-
-A chart of the most frequently requested skills, a filter by role, and a link back to each original listing. I’d also show the sample size. Ten listings from Kathmandu and a hundred listings from across Nepal answer different questions.
+**Research methods.** I’m learning how to turn a broad question about digital skills into an interview guide or a dataset that can support a specific conclusion.
 
 </details>
+
+## A note from the workbench
+
+### The model with 95% accuracy that finds zero internships
+
+Imagine a collection of **100 internship listings**. Five suit a particular student. A model marks every listing as irrelevant.
+
+| What happened | Listings |
+| :--- | ---: |
+| Unsuitable listings correctly filtered out | 95 |
+| Suitable listings shown to the student | 0 |
+| Suitable listings the student never sees | 5 |
 
 <details>
-<summary><strong>🤖 02 · Can a study assistant point to the paragraph behind its answer?</strong></summary>
+<summary><strong>How can the accuracy still be 95%?</strong></summary>
 
-### The question
+<br />
 
-Could a student use a course handout to check an AI-generated explanation for themselves?
+The model gets 95 of its 100 decisions right. But the student opened the tool to find an opportunity, and every useful opportunity disappeared.
 
-### A first version
+For this example, I’d track **recall** alongside accuracy. Of the five relevant listings available, the model found zero. If the interface displayed a ranked list, I’d also inspect its first five results, because those are the recommendations the student would actually see.
 
-I’d use one handout, a small set of questions, and a simple interface. Each answer would appear beside the passage used to produce it. I’d include questions the handout cannot answer and check whether the assistant recognizes the missing information.
-
-### What I’d measure
-
-Can a reader find the supporting passage? Does it actually support the answer? How often does the assistant answer confidently when the handout is silent?
+That’s one reason I’m drawn to applied machine learning. Choosing what to measure can be just as interesting as choosing what to train.
 
 </details>
 
-<details>
-<summary><strong>☁️ 03 · What changes between a working notebook and a reliable demo?</strong></summary>
+## GitHub activity
 
-### The question
+<a href="https://github.com/Sushil25742?tab=repositories">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sushil25742&bg_color=261D2D&color=F6E9D6&line=F2CA83&point=DAC6EC&area=true&area_color=69465D&hide_border=true&custom_title=Recent%20contributions"
+    width="100%"
+    alt="Recent GitHub contribution activity for Sushil Kumar Sah"
+  />
+</a>
 
-A prediction works on my laptop. What happens when someone submits a blank field, a new category, or an input format I didn’t anticipate?
-
-### A first version
-
-I’d package a small prediction model behind a web form and give it a set of deliberately awkward inputs. For each one, I’d record what the visitor saw and whether they could recover without help.
-
-### What I’d learn
-
-How to validate inputs, keep training and prediction steps consistent, and write an error message that tells someone what they can do next.
-
-</details>
-
-## 🇳🇵 A research question close to home
-
-> **Which digital skills help young people in Nepal move from completing a course to finding an opportunity where they can use what they learned?**
-
-I’d like to look at this question from three perspectives.
-
-| Perspective | What I’d ask |
-| :--- | :--- |
-| 🎓 **Students** | Which skills have you had a chance to use outside an assignment? |
-| 🏫 **Educators** | What kind of project helps you see whether a student can work independently? |
-| 💼 **Employers** | What would you need to see in a beginner’s portfolio to invite them for an interview? |
-
-I’d be particularly interested in where the answers differ. A student might be proudest of training a model, while an employer wants to hear how they noticed a data problem. That difference could make for a useful classroom project.
-
-## 💡 A sixty-second ML puzzle
-
-A dataset contains **100 internship listings**. Only **5** are relevant to a particular student. A model marks every listing as *irrelevant* and reports **95% accuracy**.
-
-**Would you trust it to recommend an internship?**
-
-<details>
-<summary><strong>Reveal what the score hides ↓</strong></summary>
-
-The model correctly rejected 95 irrelevant listings, so its accuracy really is **95%**. But it missed **all five** relevant listings. Its recall for relevant opportunities is **0 out of 5**.
-
-For a recommendation tool, I’d also look at the first few results a student actually sees. A useful next question is: **Of the five listings we put at the top, how many would this student consider applying to?**
-
-</details>
-
-<a name="activity"></a>
-
-## 📈 On GitHub
-
-<p align="center">
-  <a href="https://github.com/Sushil25742">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Sushil25742&bg_color=0D1924&color=BDDCD8&line=38C6AA&point=F4B778&area=true&area_color=166F68&hide_border=true&custom_title=Contribution%20activity"
-      alt="Sushil Kumar Sah’s recent GitHub contribution activity"
-      width="100%"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sushil25742?tab=repositories"><strong>Browse my repositories ↗</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Sushil25742?tab=stars">See what I’m bookmarking ↗</a>
-</p>
-
-## 📚 Learning shelf
-
-A few places to start if you’re exploring similar topics.
-
-| If you want to… | Start here |
-| :--- | :--- |
-| Practice Python and data analysis in short exercises | [Kaggle Learn](https://www.kaggle.com/learn) |
-| Follow a neural network from tensors through training and saving | [PyTorch · Learn the Basics](https://docs.pytorch.org/tutorials/beginner/basics/intro.html) |
-| Understand how data leakage can make a model look better than it is | [scikit-learn · Common Pitfalls](https://scikit-learn.org/stable/common_pitfalls.html) |
-| Explore tokenizers, transformers, and language models | [Hugging Face · LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) |
+[Browse repositories ↗](https://github.com/Sushil25742?tab=repositories) &nbsp;·&nbsp; [Explore my starred projects ↗](https://github.com/Sushil25742?tab=stars)
 
 <a name="connect"></a>
 
-## 🌐 Let’s connect
+## Let’s compare notes
 
-If you’re a student in Nepal, **what’s one digital skill you wish you’d learned earlier, and where would you have used it?** I’d be interested in hearing your answer. I’d also love to exchange ideas about beginner-friendly ML projects, useful datasets, and ways to make research accessible to students.
+If you’ve built your first ML project, **what was the first example that made you rethink your model?** I’d love to hear the story. I’m also interested in comparing notes with students and researchers studying digital skills in Nepal.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sushil-sah-740a6b416/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
-  <a href="https://www.kaggle.com/sushil1j"><img src="https://img.shields.io/badge/Kaggle-087EA4?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://www.instagram.com/sushil1t/"><img src="https://img.shields.io/badge/Instagram-B03272?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://x.com/sushilsah288149"><img src="https://img.shields.io/badge/X-202124?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.facebook.com/sushil1rs"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.tiktok.com/@sushil1r"><img src="https://img.shields.io/badge/TikTok-202124?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/sushil-sah-740a6b416/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-422D46?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.kaggle.com/sushil1j"><img src="https://img.shields.io/badge/Find_me_on_Kaggle-654057?style=for-the-badge&logo=kaggle&logoColor=white" alt="Find me on Kaggle" /></a>
 </p>
+
+[Instagram](https://www.instagram.com/sushil1t/) &nbsp;·&nbsp; [X](https://x.com/sushilsah288149) &nbsp;·&nbsp; [Facebook](https://www.facebook.com/sushil1rs) &nbsp;·&nbsp; [TikTok](https://www.tiktok.com/@sushil1r)
+
+<p align="right"><a href="#top">Back to top ↑</a></p>
